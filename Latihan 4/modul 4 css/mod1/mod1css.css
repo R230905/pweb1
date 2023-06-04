@@ -1,0 +1,56 @@
+h1.h1-1,
+p.p-1 {
+    background: orange;
+}
+h1.h1-2,
+p.p-2 {
+    background: orange;
+    width: 200px;
+    height: 75px;
+}
+
+.style-3 span{
+    background: orange;
+}
+
+.style-4 span{
+    background: orange;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+}
+
+#header {
+    background: #00ccff;
+    height: 10%;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#sidebar {
+    background: #99ccff;
+    float: left;
+    height: 400px;
+    width: 30%;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#content {
+    background: #9999ff;
+    float: right;
+    width: 70%;
+    height: 400px;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#footer {
+    background: #3399ff;
+    clear: both;
+    font-size: 1.5em;
+    text-align: center;
+}
