@@ -1,6 +1,5 @@
 <?php
-//membuat variabel $buah bertipe array, index/key tidak
-ditentukan
+//membuat variabel $buah bertipe array, index/key tidak ditentukan
 $buah[] = "Anggur";
 $buah[] = "Rambutan";
 $buah[] = "Pepaya";
